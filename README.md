@@ -5,6 +5,7 @@ List
 --------------------------------------------------------------------------
 Get
 ![action-get-byid](screenshots/02_get.png "Описание будет тут")
+---
 Add
 ![action-add](screenshots/03_add.png "Описание будет тут")
 Delete
