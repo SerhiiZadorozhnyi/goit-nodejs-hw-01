@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "start:dev": "nodemon start",
+    "start:dev": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -20,5 +20,9 @@
   "homepage": "https://github.com/SerhiiZadorozhnyi/goit-nodejs-hw-01#readme",
   "devDependencies": {
     "nodemon": "^2.0.12"
+  },
+  "dependencies": {
+    "commander": "^8.2.0",
+    "uuid": "^8.3.2"
   }
 }
